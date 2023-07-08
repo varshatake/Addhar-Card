@@ -1,0 +1,105 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: #ecf0f1;
+}
+
+.main {
+  border: black dashed;
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: 13px 13px 10px -8px rgb(82, 80, 80);
+  text-align: center;
+  margin-left: 350px;
+  margin-top: 200px;
+  width: 30%;
+  height: 40%;
+}
+
+#satmew {
+  height: 40px;
+  width: 30px;
+  /* position: relative;
+  left: 30px; */
+  margin-right: 35px;
+}
+
+.logo {
+  width: 100%;
+}
+.contentinfo {
+  width: 400px;
+  display: inline-block;
+  line-height: 25px;
+}
+.text {
+  width: 140px;
+  text-align: center;
+}
+
+#sarkar {
+  background-color: rgb(231, 158, 23);
+  width: 150px;
+  font-size: large;
+  display: inline-block;
+  position: relative;
+  bottom: 5px;
+}
+#gov {
+  background-color: green;
+  width: 200px;
+  font-size: large;
+  margin-left: 100px;
+}
+
+#adharlogo {
+  height: 50px;
+  width: 40px;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+#varshapic {
+  height: 160px;
+  width: 120px;
+  margin-top: 20px;
+}
+.info {
+  width: 100%;
+  text-align: left;
+  margin-left: 20px;
+}
+.textinfo {
+  display: inline-block;
+  line-height: 25px;
+  margin-left: 10px;
+  position: relative;
+  bottom: 65px;
+}
+
+#anumber {
+  text-align: center;
+  width: 30%;
+  margin-left: 30%;
+}
+#marathiname {
+  text-align: center;
+  width: 30%;
+  margin-left: 30%;
+}
+
+.name {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+#nameAdhar {
+  color: red;
+}
+hr {
+  color: darkred;
+}
